@@ -1,0 +1,152 @@
+.download-4-icon {
+  height: 63px;
+  width: 59px;
+  position: relative;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+}
+.download-4-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs);
+}
+.kodiak-bear-1-1-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+}
+.bear-label-child {
+  height: 53px;
+  width: 509px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.bear1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.bear-label,
+.first-level-info-child {
+  background-color: var(--color-gainsboro);
+}
+.bear-label {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 163px var(--padding-5xs);
+}
+.first-level-info-child {
+  height: 363px;
+  width: 427px;
+  position: relative;
+  display: none;
+}
+.caniforms1 {
+  text-decoration: underline;
+}
+.caniforms {
+  color: inherit;
+}
+.or-doglike-carnivorans,
+.they-are-classified-as-canifor {
+  margin: 0;
+}
+.species1 {
+  text-decoration: underline;
+}
+.species {
+  color: inherit;
+}
+.although-only-eight-species-of,
+.bears-are-extant,
+.widespread-appearing-in {
+  margin: 0;
+}
+.habitats1 {
+  text-decoration: underline;
+}
+.habitats {
+  color: inherit;
+}
+.hemisphere-and-partially,
+.most-of-the,
+.southern-hemisphere,
+.variety-of-habitats-throughout {
+  margin: 0;
+}
+.they-are-classified-container {
+  position: relative;
+  z-index: 1;
+}
+.first-level-info {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-4xl) var(--padding-mid) var(--padding-4xl)
+    var(--padding-17xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.inner-text-frame,
+.iphone-14-15-pro-max-7,
+.parent-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inner-text-frame {
+  align-self: stretch;
+  width: 509px;
+  flex-direction: column;
+  gap: 22px 0;
+}
+.iphone-14-15-pro-max-7,
+.parent-frame {
+  box-sizing: border-box;
+}
+.parent-frame {
+  align-self: stretch;
+  height: 441px;
+  flex-direction: row;
+  padding: 0;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.iphone-14-15-pro-max-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-rosybrown);
+  border: 1px solid var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 var(--padding-4xs);
+  gap: 38px 0;
+}
