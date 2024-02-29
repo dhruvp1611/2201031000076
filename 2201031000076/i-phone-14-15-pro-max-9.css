@@ -1,0 +1,164 @@
+.download-6-icon {
+  width: 59px;
+  height: 63px;
+  position: relative;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+}
+.download-button-child {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.download-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  gap: 21px 0;
+}
+.text-area-child {
+  height: 53px;
+  width: 509px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.jackal1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.text-area {
+  width: 509px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-132xl) var(--padding-5xs);
+  box-sizing: border-box;
+}
+.large-rectangle,
+.text-area,
+.text-frame {
+  background-color: var(--color-gainsboro);
+}
+.text-frame {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.large-rectangle {
+  border: 0;
+  height: 363px;
+  width: 415px;
+  outline: 0;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -57px;
+  left: -26px;
+}
+.jackals-are-medium-sized {
+  margin: 0;
+}
+.canids1 {
+  text-decoration: underline;
+}
+.canids {
+  color: inherit;
+}
+.africa1 {
+  text-decoration: underline;
+}
+.africa {
+  color: inherit;
+}
+.canids-native-to-africa-and {
+  margin: 0;
+}
+.eurasia1 {
+  text-decoration: underline;
+}
+.eurasia {
+  color: inherit;
+}
+.eurasia-while-the-word-jacka,
+.has-historically-been,
+.many-canines-of {
+  margin: 0;
+}
+.canina1 {
+  text-decoration: underline;
+}
+.canina {
+  color: inherit;
+}
+.canina-in-modern-use-it-most,
+.commonly-refers-to {
+  margin: 0;
+}
+.black1 {
+  text-decoration: underline;
+}
+.black {
+  color: inherit;
+}
+.species-the-closely-related-b {
+  margin: 0;
+}
+.backed-jackal1 {
+  text-decoration: underline;
+}
+.backed-jackal {
+  color: inherit;
+}
+.backed-jackal-lupulella,
+.mesomelas {
+  margin: 0;
+}
+.jackals-are-medium-sized-cani-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.background-frame1,
+.iphone-14-15-pro-max-9 {
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.background-frame1 {
+  height: 290px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  font-size: var(--font-size-5xl);
+}
+.iphone-14-15-pro-max-9 {
+  width: 100%;
+  background-color: var(--color-rosybrown);
+  border: 1px solid var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 66px;
+  gap: 38px 0;
+  font-size: var(--font-size-21xl);
+}
